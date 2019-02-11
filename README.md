@@ -1,6 +1,7 @@
 # todo-api
 
 This is an application I am using to learn how to write a Python API using flask.
+The learning example is credited to: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
 ## Setup
 
